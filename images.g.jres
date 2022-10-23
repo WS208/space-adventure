@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAiAAAAAAAAICIAAAAAAAAiIgAAAAAAACPiAAAAAAAgI+IAAAAAACMj4gAAAAAiGyMiMzMz49obGyI3b1vb5lobmYAAAAAiJhuZgAAAAAAiG9mAAAAAACAn2kAAAAAAABolgAAAAAAAIhmAAAAAAAAgIgAAAAAAAAAiA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Spaceship"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAABQAAAAAAAAAEQEAAAAAABQJFQAAAAAAABEBAAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAARAQAAAAAAFAkVAAAAAAAAEQEAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Bullets"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAADMzMwAAADMzMysqgwAwKyqrLqMqwDAuoyqy/+8DLDL/6yGz7wMsPr/zGrKvAyw/I/MzLy8DKz7yMzMrLsLzLqqqqr6v8usqrvLr/+8u6q6u/yvyrq7rLu7/7y8u8vAvLvKvMy7DACsu7vLzLoMAACqvLvLzAAAAACsygAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Asteriod"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
